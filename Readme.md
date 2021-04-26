@@ -18,7 +18,7 @@ This is a listing of people and organizations that provide services or expertise
 
 ### Rio Grande Community Farm
 
-Rio Grande Communiuty Farm (RGCF) manages 16 acres of farmland in the Los Poblanos Open Space. RGCF practices sustainable agriculture, supports wildlife habitat, and provdes educational resources to the community in the middle Rio Grande Valley. They run a two acre community garden, micro-farmer plots, workshops, farmer training, and incubator programs. Rio Grande Community Farm supports various other farming organizations by providing land, logistics, tools, and training.
+Rio Grande Communiuty Farm (RGCF) manages 16 acres of farmland in the Los Poblanos Open Space. RGCF practices sustainable agriculture, supports wildlife habitat, and provdes educational resources to the community in the middle Rio Grande Valley. RGCF runs a two acre community garden, micro-farmer plots, workshops, farmer training, and incubator programs. Rio Grande Community Farm supports various other farming organizations by providing land, logistics, tools, and training.
 
 #### Contact
 
