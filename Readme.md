@@ -82,5 +82,5 @@ See something wrong? Please let us know by [submitting an issue](https://github.
 
 ## Contributions
 
-This is an open source project, and all are welcome to contribute. Please view our [contribution guidelines](on our [Wiki](https://github.com/alpual/farming-the-rio-grande-valley/wiki).) for more on how to contribute.
+This is an open source project, and all are welcome to contribute. Please view our [contribution guidelines](on our [Wiki](https://github.com/alpual/farming-the-rio-grande-valley/wiki).) for more.
 
