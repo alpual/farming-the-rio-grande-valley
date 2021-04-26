@@ -25,7 +25,7 @@ Rio Grande Communiuty Farm (RGCF) manages 16 acres of farmland in the Los Poblan
 * **Website** [RioGrandeFarm.org](riograndefarm.org) 
 * **Email**: info@riograndefarm.org
 * **Phone** (voice mail only): [(505) 308-4987](tel:5053084987)
-* **Address**: [1701 Monmtaño Rd NW, Albuquerque, NM, 87107](https://www.google.com/maps/place/Rio+Grande+Community+Farm/)
+* **Address**: [1701 Montaño Rd NW, Albuquerque, NM, 87107](https://www.google.com/maps/place/Rio+Grande+Community+Farm/)
 * **Social media**: 
   * [RGCF Instagram Account](https://www.instagram.com/riograndecommunityfarm/)
   * [RGCF Facebook Page](https://www.facebook.com/search/top?q=Rio%20Grande%20Community%20Farm)
