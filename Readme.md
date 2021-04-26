@@ -6,7 +6,7 @@ This guide is intended to be an ever growing source of information for growers i
 
 ## About
 
-This resource guide was started by the Rio Grande Community Farm as a community resource aimed at helping provide a comprehensive listing of resources for farmers, gardeners, and growers of all types in the Middle Rio Grande Valley. 
+This resource guide was started by the Rio Grande Community Farm as a community resource. It is intended to be a comprehensive listing of resources for farmers, gardeners, and growers of all types in the Middle Rio Grande Valley. If you know of resources that aren't on here, please let us know!
 
 We know that there is deep knowledge spread across our community, and so we chose to make this an open-source project, hosted on GitHub, so that the whole community can edit it. If you are interested in contributing, we have more information on our [Wiki](https://github.com/alpual/farming-the-rio-grande-valley/wiki).
 
