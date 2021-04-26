@@ -8,13 +8,9 @@ This guide is intended to be an ever growing source of information for growers i
 
 This resource guide was started by the Rio Grande Community Farm as a community resource aimed at helping provide a comprehensive listing of resources for farmers, gardeners, and growers of all types in the Middle Rio Grande Valley. 
 
-We know that there is deep knowledge spread across our community, and so we chose to make this an open-source project, hosted on GitHub, so that the whole community can edit it. This guide is managed a community of volunteers, and is [version controlled](https://github.com/tvanantwerp/github-for-non-programmers/blob/master/01-intro/01-00-what-is-github-anyway.md).
+We know that there is deep knowledge spread across our community, and so we chose to make this an open-source project, hosted on GitHub, so that the whole community can edit it. If you are interested in contributing, we have more information on our [Wiki](https://github.com/alpual/farming-the-rio-grande-valley/wiki).
 
-## How to contribute
-
-There are two basic ways you can contribute. If you see a problem with the info presented, or if you have a request for new content, you can [submit an issue](#) to raise it to the attention of the volunteers who maintain the guide.
-
-If you want to edit the content of this page, or any other, you can! You don't need to know how to code to contribute to the Farming in the Middle Rio Grande Valley resource guide. We have a process documented on the [Editing the Guide](#) page that outlines what you need to do. 
+---
 
 ## Directory
 
